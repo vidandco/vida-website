@@ -1,0 +1,14 @@
+vida:
+  name: Vida Glaser
+  title: Real Estate Agent
+  #url: https://sebastienlorber.com
+  image_url: /img/blog-profile.png
+  #page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    #permalink: '/all-sebastien-lorber-articles'
+  #socials:
+    #x: sebastienlorber
+    #linkedin: sebastienlorber
+    #github: slorber
+    #imageUrl: require('@site/static/img/pem-holmes-logo.png').default
+  
