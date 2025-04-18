@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[46],{2363:e=>{e.exports=JSON.parse('{"authors":[{"name":"Vida Glaser","title":"Real Estate Agent","imageURL":"/vida-website/img/blog-profile.png","key":"vida","page":null,"count":2}]}')}}]);
