@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Vida Glaser Real Estate Blog</title>
-        <link>https://vidandco.github.io/vida-website/blog</link>
+        <link>https://vidandco.github.io/blog</link>
         <description>Vida Glaser Real Estate Blog</description>
         <lastBuildDate>Tue, 01 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Earth Month]]></title>
-            <link>https://vidandco.github.io/vida-website/blog/earth-month</link>
-            <guid>https://vidandco.github.io/vida-website/blog/earth-month</guid>
+            <link>https://vidandco.github.io/blog/earth-month</link>
+            <guid>https://vidandco.github.io/blog/earth-month</guid>
             <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Lower Your Home’s Carbon Footprint.]]></description>
             <content:encoded><![CDATA[<p>Lower Your Home’s Carbon Footprint.</p>
@@ -62,14 +62,14 @@ Check <a href="https://natural-resources.canada.ca/energy-efficiency/home-energy
 efficiency/canada-greener-homes-initiative
 For the affordability program and more information.</li>
 </ol>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://vidandco.github.io/vida-website/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content:encoded>
+<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://vidandco.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content:encoded>
             <category>earth</category>
             <category>month</category>
         </item>
         <item>
             <title><![CDATA[Home Ownership Aspirations]]></title>
-            <link>https://vidandco.github.io/vida-website/blog/home-ownership</link>
-            <guid>https://vidandco.github.io/vida-website/blog/home-ownership</guid>
+            <link>https://vidandco.github.io/blog/home-ownership</link>
+            <guid>https://vidandco.github.io/blog/home-ownership</guid>
             <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[What does a morning cup of coffee and home ownership aspirations have in common?]]></description>
             <content:encoded><![CDATA[<p>What does a morning cup of coffee and home ownership aspirations have in common?</p>
