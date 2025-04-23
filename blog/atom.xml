@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://millbaystonebridge.ca/blog</id>
+    <id>https://www.millbaystonebridge.ca/blog</id>
     <title>VIDA GLASER REAL ESTATE Blog</title>
     <updated>2025-04-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://millbaystonebridge.ca/blog"/>
+    <link rel="alternate" href="https://www.millbaystonebridge.ca/blog"/>
     <subtitle>VIDA GLASER REAL ESTATE Blog</subtitle>
-    <icon>https://millbaystonebridge.ca/img/blog-profile.png</icon>
+    <icon>https://www.millbaystonebridge.ca/img/blog-profile.png</icon>
     <entry>
         <title type="html"><![CDATA[Earth Month]]></title>
-        <id>https://millbaystonebridge.ca/blog/earth-month</id>
-        <link href="https://millbaystonebridge.ca/blog/earth-month"/>
+        <id>https://www.millbaystonebridge.ca/blog/earth-month</id>
+        <link href="https://www.millbaystonebridge.ca/blog/earth-month"/>
         <updated>2025-04-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lower Your Home’s Carbon Footprint.]]></summary>
         <content type="html"><![CDATA[<p>Lower Your Home’s Carbon Footprint.</p>
@@ -61,7 +61,7 @@ Check <a href="https://natural-resources.canada.ca/energy-efficiency/home-energy
 efficiency/canada-greener-homes-initiative
 For the affordability program and more information.</li>
 </ol>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://millbaystonebridge.ca/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
+<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://www.millbaystonebridge.ca/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
         <author>
             <name>Vida Glaser</name>
         </author>
@@ -70,8 +70,8 @@ For the affordability program and more information.</li>
     </entry>
     <entry>
         <title type="html"><![CDATA[Home Ownership Aspirations]]></title>
-        <id>https://millbaystonebridge.ca/blog/home-ownership</id>
-        <link href="https://millbaystonebridge.ca/blog/home-ownership"/>
+        <id>https://www.millbaystonebridge.ca/blog/home-ownership</id>
+        <link href="https://www.millbaystonebridge.ca/blog/home-ownership"/>
         <updated>2025-02-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[What does a morning cup of coffee and home ownership aspirations have in common?]]></summary>
         <content type="html"><![CDATA[<p>What does a morning cup of coffee and home ownership aspirations have in common?</p>
