@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vidandco.github.io/blog</id>
-    <title>Vida Glaser Real Estate Blog</title>
+    <title>VIDA GLASER REAL ESTATE Blog</title>
     <updated>2025-04-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vidandco.github.io/blog"/>
-    <subtitle>Vida Glaser Real Estate Blog</subtitle>
-    <icon>https://vidandco.github.io/img/favicon.ico</icon>
+    <subtitle>VIDA GLASER REAL ESTATE Blog</subtitle>
+    <icon>https://vidandco.github.io/img/blog-profile.png</icon>
     <entry>
         <title type="html"><![CDATA[Earth Month]]></title>
         <id>https://vidandco.github.io/blog/earth-month</id>
