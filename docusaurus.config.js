@@ -10,12 +10,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Vida Glaser Real Estate',
-  tagline: 'DEDICATED PROFESSIONAL KNOWLEDGE EXPERIENCE',
-  favicon: 'img/favicon.ico',
+  title: 'VIDA GLASER REAL ESTATE',
+  tagline: 'DEDICATED | PROFESSIONAL | KNOWLEDGE | EXPERIENCE',
+  favicon: 'img/blog-profile.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://www.millbaystonebridge.ca',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -45,8 +45,8 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: undefined,
+            
         },
         blog: {
           showReadingTime: true,
@@ -56,8 +56,8 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: undefined,
+            
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -75,8 +75,17 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      headTags: [
+        {
+          tagName: 'link',
+          attributes: {
+            rel: 'stylesheet',
+            href: 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap',
+          },
+        },
+      ],
       navbar: {
-        title: 'Vida Glaser Real Estate',
+        title: 'VIDA GLASER REAL ESTATE',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',

@@ -8,7 +8,8 @@ const FeatureList = [
     imageUrl: require('@site/static/img/stone-bridge.jpg').default,
     description: (
       <>
-        For more information on Stonebridge Development and Mill Bay Homes, contact: vidasellsvi@gmail.com.
+        For more information on Stonebridge Development and Mill Bay Homes, contact:{' '}
+        <a href="mailto:vidasellsvi@gmail.com">vidasellsvi@gmail.com</a>
       </>
     ),
   },

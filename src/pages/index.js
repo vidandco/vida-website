@@ -1,3 +1,4 @@
+import React, { useEffect } from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -30,6 +31,17 @@ function HomepageHeader() {
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
+
+  useEffect(() => {
+    const script = document.createElement('script');
+    script.id = 'realty_ai';
+    script.type = 'text/javascript';
+    script.src = 'https://cdn.realty-ai.com/chat/web_path_var.js';
+    script.setAttribute('data-realityaiid', '31a31305-5d11-48d9-963a-93d3e91026f8');
+    script.async = true;
+    document.body.appendChild(script);
+  }, []);
+
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
@@ -41,3 +53,4 @@ export default function Home() {
     </Layout>
   );
 }
+
