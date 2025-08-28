@@ -1,5 +1,5 @@
 ---
-slug: home-selling
+slug: sitting-on-the-fence-about-selling
 title: Sitting on the Fence About Selling
 authors: vida
 tags: [update, local]
