@@ -5,7 +5,7 @@ authors: [vida]
 tags: [update, local]
 ---
 
-Stonebridge Mill Bay June 2026 by Chadd Cawson Chemainus Valley Courier
+**Stonebridge Mill Bay June 2026 by Chadd Cawson Chemainus Valley Courier**
 
 <!-- truncate -->
 
