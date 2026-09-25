@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.millbaystonebridge.ca/blog</id>
     <title>VIDA GLASER REAL ESTATE Blog</title>
-    <updated>2025-08-01T00:00:00.000Z</updated>
+    <updated>2026-06-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.millbaystonebridge.ca/blog"/>
     <subtitle>VIDA GLASER REAL ESTATE Blog</subtitle>
     <icon>https://www.millbaystonebridge.ca/img/blog-profile.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Stonebridge Mill Bay June 2026]]></title>
+        <id>https://www.millbaystonebridge.ca/blog/Stonebridge-Mill-Bay</id>
+        <link href="https://www.millbaystonebridge.ca/blog/Stonebridge-Mill-Bay"/>
+        <updated>2026-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stonebridge Mill Bay June 2026 by Chadd Cawson Chemainus Valley Courier]]></summary>
+        <content type="html"><![CDATA[<p>Stonebridge Mill Bay June 2026 by Chadd Cawson Chemainus Valley Courier</p>
+<p>The 150-acre Stonebridge development project in Mill Bay has received final approval from the Cowichan Valley Regional District board, clearing the way for site preparation and infrastructure work to begin immediately.</p>
+<p>The project is a partnership between Limona Construction Ltd. and Merdyn Group,</p>
+<p>Stonebridge is a master-planned community that will span more than 150 acres, and is expected to deliver nearly 1,000 new homes across a broad range of housing that will include rental apartments, seniors housing, townhomes, condominiums, duplexes, and single-family homes. It will also include parkland, trails, environmental protections, transportation upgrades, and commercial amenities.</p>]]></content>
+        <author>
+            <name>Vida Glaser</name>
+        </author>
+        <category label="update" term="update"/>
+        <category label="local" term="local"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sitting on the Fence About Selling]]></title>
         <id>https://www.millbaystonebridge.ca/blog/the-fence</id>
