@@ -99,7 +99,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://vidaglaser.pembertonholmes.com',
+            href: 'https://vidaglaser.ca',
             label: 'Property Search',
             position: 'right',
           },
