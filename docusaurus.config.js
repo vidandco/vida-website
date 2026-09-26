@@ -139,7 +139,7 @@ const config = {
               },
               {
                 label: 'Property Search',
-                href: 'https://vidaglaser.pembertonholmes.com',
+                href: 'https://vidaglaser.ca',
               },
             ],
           },
