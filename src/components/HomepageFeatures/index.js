@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Stonebridge & Mill Bay',
-    imageUrl: require('@site/static/img/Stonebridge.jpg').default,
+    imageUrl: require('@site/static/img/stonebridge.jpg').default,
     description: (
       <>
         For more information on Stonebridge Development and Mill Bay Homes, contact:{' '}
